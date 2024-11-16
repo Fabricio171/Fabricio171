@@ -43,10 +43,14 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
 <br>
 <br>
 
 <div>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 </div>
+
+![cat-the-voices (2)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/3201c27e-e16d-4e14-853b-c79f30c61bdc)
+![vqVHHAv (2)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/eceb2991-70a7-460c-9c1c-733cd0ddcd73)
 
