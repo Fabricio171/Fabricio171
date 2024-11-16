@@ -1,66 +1,48 @@
 
-![matrix-the-matrix (1)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/a183928d-6e88-4589-aa87-6f6e903d8d9b)   ![GitHub Views](https://komarev.com/ghpvc/?username=FernandinOficial&color=brightgreen)           ![symbol-code (3)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/b5f2e50d-b185-42a8-b6c7-adc1373c5763)
+<h2 align="left">Bem-Vindo 👋! Meu nome é Fabricio 🙂🧐👾</h2>
 
-## Olá, seja Bem-Vindo(a) 👋
+###
 
-![kek-angry](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/a1033145-ad77-4e7f-8e16-d4cbc42931b8)
-![soulja-boy-pepe (1)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/0ab6a451-3c31-498f-966c-44930b2c57b9)
-
-![Fernandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandinOficial&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandinOficial&layout=compact&theme=dark)
-
-### Portfólio
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandinOficial&repo=Portfolio&show_icons=true&theme=tokyonight)](https://github.com/FernandinOficial/Portfolio)
-
-#### Sobre mim:
-
-- 🔭 Atualmente estou disponível para trabalho
-- 🌱 Atualmente estou aprendendo JavaScript, PHP, C#
-- 👯 Estou em colaboração com *Prismidium Studios*
-- 🤔 Estou buscando ajuda com pessoas que tenham conhecimento com C# e SQL
-- 📫 Como me contatar: fernando.furibeiro@outlook.com
-- ⚡ Curiosidade: Gosto de fazer jogos e programar em tempo livre...
-
-
-  ##
-
- ####
-
-<div> 
-  <a href="https://www.youtube.com/channel/UCxX7FbyzCkvSbiSNRw3tKXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/UYdQp9EwSX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:fernando.furibeiro@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-ribeiro-50ba76324" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.atom.bio/fernandoribeiro" target="_blank"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabricio171&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabricio171&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/FernandinOficial/FernandinOficial/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/FernandinOficial/FernandinOficial/output/github-contribution-grid-snake.svg">
-</picture>
+<br clear="both">
 
-<br>
-<br>
+<img align="right" height="165" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif"  />
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />      
-  <br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />      
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />     
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
+###
 
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />      
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />      
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+<div align="left">
+  <a href="https://www.instagram.com/fabricioaltafiniteodoro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fabricio-altafini-teodoro-0242b0264/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100084742337285" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
 </div>
-
 <br>
 <br>
 
@@ -68,5 +50,3 @@
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 </div>
 
-![cat-the-voices (2)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/3201c27e-e16d-4e14-853b-c79f30c61bdc)
-![vqVHHAv (2)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/eceb2991-70a7-460c-9c1c-733cd0ddcd73)
