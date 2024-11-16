@@ -44,6 +44,32 @@
   </a>
 </div>
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/FernandinOficial/FernandinOficial/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/FernandinOficial/FernandinOficial/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+<br>
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />      
+  <br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />      
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />     
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />      
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />      
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+</div>
+
 <br>
 <br>
 
@@ -53,4 +79,6 @@
 
 ![cat-the-voices (2)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/3201c27e-e16d-4e14-853b-c79f30c61bdc)
 ![vqVHHAv (2)](https://github.com/FernandinOficial/FernandinOficial/assets/151852919/eceb2991-70a7-460c-9c1c-733cd0ddcd73)
+
+
 
